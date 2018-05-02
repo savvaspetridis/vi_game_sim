@@ -4,6 +4,13 @@ from pygame.math import Vector2
 from pygame.locals import *
 import math
 
+# ===================================================================================
+# PLEASE READ BELOW:
+
+# This is the folder that contains both the frames and presence matrix:
+# Put the path to this folder here
+# This is all you need to do to run this
+# ===================================================================================
 
 # video_folder = './results_savvas/trial_3_reverse.mov_output/';
 video_folder = './Katy_Archive/katy_path_1_try_1.mov_output/';
